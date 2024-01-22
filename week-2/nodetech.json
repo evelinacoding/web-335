@@ -1,0 +1,27 @@
+{
+    "NodeTech": {
+        "student": {
+            "studentId": 932043,
+            "firstName": "Britney",
+            "lastName": "Spears"
+        },
+                
+        "enrollment" : [{
+                "term": "Summer",
+                "gpa" : 4.0,
+                "startDate": "6/22/24",
+                "endDate" : "7/31/24"
+            },
+            
+            {"course" : {
+                "coursed" : "History of Watermelons",
+                "description": "A detailed overview of everyone's favorite juicy fruit.",
+                "instructor": "Mrs. Milano",
+                "score": "90/100",
+                "letterGrade": "A" 
+            }
+        }]
+                    
+                
+    }
+}

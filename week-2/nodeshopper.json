@@ -1,0 +1,27 @@
+{
+"NodeShopper": {
+"customer": {
+"id": 1576576,
+"firstName": "Evelyn",
+"lastName": "Zepeda",
+"dateOfBirth": "1/1/1991",
+"username": "evzepef",
+	"invoice": [{
+		"id": "32423432",
+		"createDate": "12/21/2050",
+		"shipDate": "4/4/2051",
+		"subtotal": "$45.00"
+		},
+			{"lineItem": [{
+				"_id": "32423",
+					"productName": "ClearQuartz",
+					"price": "$45.00",
+					"qty": 1
+				}]
+		}]
+	}
+}
+
+}
+
+
