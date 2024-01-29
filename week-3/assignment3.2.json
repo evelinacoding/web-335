@@ -1,0 +1,49 @@
+{
+    "NodeBookCo": {
+        "publisher": {
+            "name": "orangebooks",
+            "code": "489234fds",
+            "address": "345 W Blue St",
+                "books": [
+                    {
+                    "bookName": "The Bible",
+                    "bookIsbn": "66666666",
+                    "price": "$1.00",
+                    "author": [{
+                        "authorFirstName": "Jesus",
+                        "authorLastName": "Christ",
+                        "phone": "222-222-2222",
+                        "email": "jesus@heavenlymail.com"
+                    },
+                    {
+                        "authorFirstName": "Tatcha",
+                        "authorLastName": "Dewy",
+                        "phone": "234-323-5453",
+                        "email": "tatcha@dewy.com"
+                    }]
+                },     
+                {
+                    "bookName": "Quartz Crystals",
+                    "bookIbsn": "39843279",
+                    "price": "$30.00",
+                    "author": [
+                        {
+                            "authorFirstName": "Clearly",
+                            "authorLastName": "Eye",
+                            "phone": "267-434-6534",
+                            "email": "namaste@aura.com"  
+                        },
+                        {
+                            "authorFirstName": "Oracle",
+                            "authorOLastName": "Lazuli",
+                            "phone": "243-543-2365",
+                            "email": "oraclelazuli@gmail.com"
+                        }
+                    ]
+                }
+
+            ]
+        }
+    }
+    
+}
