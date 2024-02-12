@@ -1,6 +1,6 @@
 /**
 	Title: zepeda-projections.js
-    Author: Professor Krasso
+    Author: Evelyn Zepeda
     Date: 2/10/24
     Description: MongoDB Projections
  */

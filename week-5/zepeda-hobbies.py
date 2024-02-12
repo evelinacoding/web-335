@@ -1,8 +1,8 @@
 #
-#	Title: zepeda-projections.js
-#    Author: Professor Krasso
-#    Date: 2/10/24
-#    Description: MongoDB Projections
+#	Title: zepeda-hobbies.py
+#    Author: Evelyn Zepeda
+#    Date: 2/11/24
+#    Description: Python Hobbies
  
 
 #Creating a variable that holds the hobbies in an array
